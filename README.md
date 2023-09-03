@@ -4,9 +4,10 @@ The Batman To-Do List Checklist is an elegant and meticulously crafted web appli
 ## Skills Demonstrated
 It sets the standard for elegant task management while demonstrating proficiency in HTML5, CSS3, and JavaScript. The commitment to an exceptional user experience and adherence to conventionally good coding practices, as always, is also note-worthy. It truly captures the persona of a one that's focused, minmalistic, and gets things done: Bruce Wayne. You might know him from his alias.
 
-### HTML5, CSS3, and JavaScript Proficiency:
+### HTML5, CSS3, JavaScript, and VCS Proficiency:
 * This project is built on a foundation of fusion of these three languages. The HTML5 structure provides a solid backbone, while CSS3 adds that sleek, Gotham-inspired aesthetic.
-* Lastly, JavaScript makes tasks interactive and adds dynamic behavior to the checklist, such as the hover logo on the title. The fusion of these three technologies is the prime trait of this project.
+* Additionally, JavaScript makes tasks interactive and adds dynamic behavior to the checklist, such as the hover logo on the title. The fusion of these three technologies is the prime trait of this project.
+* __Version Control with Git:__ The project is meticulously version-controlled using Git, with clear commit messages that provide insights into the progression of the codebase. This version control practice allows for easy tracking of changes and issue resolution.
 
 ### User Experience Excellence and Coding Best Practices:
 * __Visual Consistency:__ Every aspect of the user interface, from typography choices to button styles, adheres to a consistent visual language. This consistency creates a cohesive and harmonious user experience.
